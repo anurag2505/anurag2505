@@ -1,10 +1,10 @@
 # Hi, I'm Anurag Sharma 👋
 
-I am a civil engineer turned Data Engineer with a passion for digital transformation, AI, and application development. I enjoy working on innovative solutions to optimize workflows and enhance systems through technology.
+I am a Data Engineer with a passion for digital transformation, AI, and application development. I enjoy working on innovative solutions to optimize workflows and enhance systems through technology.
 
 ## About Me
 
-I have a Bachelor’s degree in Civil Engineering and a Master’s degree in Sensor System Technology. My journey has taken me from civil engineering to IT, where I now work with cutting-edge technologies such as IoT, embedded systems, AI, and data analytics. I love applying my technical skills to solve real-world problems and contribute to impactful projects.
+I have a Bachelor’s and Master’s degree in Sensor System Technology. My journey has taken me from engineering to IT, where I now work with cutting-edge technologies such as IoT, embedded systems, AI, and data analytics. I love applying my technical skills to solve real-world problems and contribute to impactful projects.
 
 ### My Skills:
 - **Programming Languages**: Python, C, C++, Java
